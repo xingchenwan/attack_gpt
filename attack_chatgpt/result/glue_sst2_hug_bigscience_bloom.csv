@@ -1,0 +1,5 @@
+idx,content,true_label,pred_label
+0,hide new secretions from the parental units ,0,positive
+1,"contains no wit , only labored gags ",0,positive
+2,that loves its characters and communicates something rather beautiful about human nature ,1,positive
+3,remains utterly satisfied to remain the same throughout ,0,positive
